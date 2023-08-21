@@ -38,6 +38,7 @@ if (isset($_POST['submit'])) {
 
 	<title>Login Form - Pure Coding</title>
 </head>
+	
 <body>
 	<div class="container">
 		<form action="" method="POST" class="login-email">
